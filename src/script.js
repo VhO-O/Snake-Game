@@ -163,7 +163,7 @@ const gameLoop = () => {
 
     LoopId = setTimeout(()=>{
         gameLoop()
-    }, 275)
+    }, 250)
 }
 
 gameLoop()
@@ -195,7 +195,3 @@ buttonPlay.addEventListener("click", () => {
 
     snake = [initialPosition]
 })
-
-
-
-

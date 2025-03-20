@@ -45,11 +45,13 @@ canvas {
     text-transform: uppercase;
     font-weight: 700;
     font-size: 3rem;
+    color:  rgb(156, 156, 156);;
 }
 
 .final-score {
     font-weight: 500;
     font-size: 1.5rem;
+    color: rgb(156, 156, 156);
 }
 
 .btn-play {
